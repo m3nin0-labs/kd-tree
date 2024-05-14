@@ -1,4 +1,4 @@
-# kd-tree
+# kd-tree 🌳
 
 This repository contains a C++ implementation of a kd-tree to handle point geometries.
 
